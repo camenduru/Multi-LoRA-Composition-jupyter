@@ -18,7 +18,7 @@ https://arxiv.org/abs/2402.16843
 https://maszhongming.github.io/Multi-LoRA-Composition/
 
 ### 🖼 Output
-![intro_fig](https://github.com/camenduru/Multi-LoRA-Composition-jupyter/assets/54370274/010aa156-9103-4435-a63b-05b4b21e8976)
+![intro_fig2](https://github.com/camenduru/Multi-LoRA-Composition-jupyter/assets/54370274/7e7c0200-cdc3-43a7-a611-8384a577b606)
 
 ### 🏢 Sponsor
 https://replicate.com
